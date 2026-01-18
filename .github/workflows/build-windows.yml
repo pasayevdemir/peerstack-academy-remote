@@ -2,7 +2,7 @@ name: Build Peerstack Academy Windows
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
   workflow_dispatch:
 
 env:
